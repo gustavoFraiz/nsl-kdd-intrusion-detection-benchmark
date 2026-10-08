@@ -36,9 +36,7 @@ The original work was spread across several Colab notebooks. This repository gro
     └── README.md
 ```
 
-## Authorship note
 
-The recovered notebooks do **not** contain a reliable explicit author block. Contributor names should be added here before public release if this project was collaborative. The repository intentionally does not guess authorship.
 
 ## Reproducibility
 
